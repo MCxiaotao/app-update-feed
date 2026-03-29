@@ -2,8 +2,8 @@
   "app_id": "AndrogenRAG",
   "channel": "stable",
   "version": "1.0.0",
-  "pub_date": "2026-03-29T15:43:31+00:00",
-  "notes": "v1 packaging baseline: setup installer, private runtime, launcher bootstrap, slimmed vendor bundle.",
+  "pub_date": "2026-03-29T16:09:44+00:00",
+  "notes": "v1 packaging baseline with wizard installer, uninstall exe, private runtime, launcher bootstrap, slimmed vendor bundle.",
   "min_launcher_version": "1.0.0",
   "windows": {
     "arch": "x64",
