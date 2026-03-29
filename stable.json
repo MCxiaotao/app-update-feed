@@ -1,0 +1,14 @@
+{
+  "app_id": "AndrogenRAG",
+  "channel": "stable",
+  "version": "1.0.0",
+  "pub_date": "2026-03-29T12:30:02+00:00",
+  "notes": "v1 packaging baseline: setup installer, private runtime, launcher bootstrap, slimmed vendor bundle.",
+  "min_launcher_version": "1.0.0",
+  "windows": {
+    "arch": "x64",
+    "url": "https://github.com/MCxiaotao/app-update-feed/releases/download/v1.0.0/androgen-rag-bundle-win-x64-1.0.0.zip",
+    "sha256": "eab1de7c467834048c2388bc7044b7932d7e9365253228c337135dd61ad313c0",
+    "size": 609525233
+  }
+}
