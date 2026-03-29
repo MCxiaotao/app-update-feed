@@ -1,14 +1,14 @@
 {
   "app_id": "AndrogenRAG",
   "channel": "stable",
-  "version": "1.0.1",
-  "pub_date": "2026-03-29T17:12:37+00:00",
-  "notes": "v1.0.1: wizard installer polish, uninstall entry, branding placeholder hooks, local update drill, long-path fix for bundle updates.",
+  "version": "1.0.2",
+  "pub_date": "2026-03-29T17:58:44+00:00",
+  "notes": "v1.0.2: slimmer bundle, installer/uninstaller running-process detection, launcher update retry and cache cleanup.",
   "min_launcher_version": "1.0.0",
   "windows": {
     "arch": "x64",
-    "url": "https://github.com/MCxiaotao/app-update-feed/releases/download/v1.0.1/androgen-rag-bundle-win-x64-1.0.1.zip",
-    "sha256": "2acd26626a9381319683d030b1b9f6a57649a8bbf4c77d6a8873af59500f52fe",
-    "size": 609525234
+    "url": "https://github.com/MCxiaotao/app-update-feed/releases/download/v1.0.2/androgen-rag-bundle-win-x64-1.0.2.zip",
+    "sha256": "5f257b7c270ab54c50e513b28e217e2a18768b22de571d8d81d97fe9f1fd0cb0",
+    "size": 451552072
   }
 }
